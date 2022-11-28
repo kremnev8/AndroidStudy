@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name" translatable="false">Lab24</string>
+    <string-array name="text_view_captions">
+        <item>Дюйм</item>
+        <item>Ярд</item>
+        <item>Фут</item>
+        <item>Миля</item>
+        <item>Иоттаметр</item>
+        <item>Зеттаметр</item>
+        <item>Эксаметр</item>
+        <item>Петаметр</item>
+        <item>Тераметр</item>
+        <item>Гигаметр</item>
+        <item>Мегаметр</item>
+        <item>Километр</item>
+        <item>Гектометр</item>
+        <item>Декаметр</item>
+        <item>Метр</item>
+        <item>Дециметр</item>
+        <item>Сантиметр</item>
+        <item>Миллиметр</item>
+        <item>Микрометр</item>
+        <item>Нанометр</item>
+        <item>Пикометр</item>
+        <item>Фемтометр</item>
+        <item>Аттометр</item>
+        <item>Зептометр</item>
+        <item>Иоктометр</item>
+    </string-array>
+    <string-array name="tag_names">
+        <item>et_inch</item>
+        <item>et_yard</item>
+        <item>et_foot</item>
+        <item>et_mile</item>
+        <item>et_yottametre</item>
+        <item>et_zettametre</item>
+        <item>et_exametre</item>
+        <item>et_petametre</item>
+        <item>et_terametre</item>
+        <item>et_gigametre</item>
+        <item>et_megametre</item>
+        <item>et_kilometre</item>
+        <item>et_hectometre</item>
+        <item>et_decametre</item>
+        <item>et_metre</item>
+        <item>et_decimetre</item>
+        <item>et_centimetre</item>
+        <item>et_millimetre</item>
+        <item>et_micrometre</item>
+        <item>et_nanometre</item>
+        <item>et_picometre</item>
+        <item>et_femtometre</item>
+        <item>et_attometre</item>
+        <item>et_zeptometre</item>
+        <item>et_yoctometre</item>
+    </string-array>
+
+
+
+</resources>
