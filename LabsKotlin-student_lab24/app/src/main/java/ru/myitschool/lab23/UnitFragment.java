@@ -107,6 +107,7 @@ public class UnitFragment extends Fragment {
             setClipboard(getContext(), binding.field.getText().toString());
         });
         binding.field.setTag(tagNames[mUnitId]);
+        binding.field.setContentDescription(tagNames[mUnitId]);
 
 
         return binding.getRoot();
